@@ -26,8 +26,12 @@ appear in Reddit threads. Mine it systematically instead of watching it.
 4. **Synthesize ideas.** Each idea must cite its evidence: the demand signal
    (suggestions/views) + the pain source (video + what was said). Ideas without both
    get cut. Rate each: demand evidence / competition seen / effort to test.
-5. **Report.** Ranked ideas with receipts, then the discarded ones with the reason
-   (saturation, no demand signal, single-source).
+5. **Filter through the user.** Rank ideas against what the conversation reveals about
+   the user's actual capabilities and assets (skills, infrastructure, audience, domain
+   knowledge) — an idea that's a 6/10 in general but sits on the user's unfair advantage
+   outranks a generic 8/10. Say when that reranking happens and why.
+6. **Report.** Ranked ideas with receipts, then the discarded ones with the reason
+   (saturation, no demand signal, single-source, bad founder-fit).
 
 ## Rules
 

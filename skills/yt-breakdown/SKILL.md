@@ -26,9 +26,15 @@ Works on 1–10 videos; with multiple videos, cross-reference them.
      platform/algorithm change since?
 4. **Cross-reference** (multi-video): where do independent creators agree? Agreement
    across creators with different incentives is the strongest signal in this method.
-5. **Report.** Lead with the verdict, then per-video: what it actually says (with the
+5. **Ground in context.** Before writing the report, scan the conversation for what the
+   user is actually doing (their business, stack, skills, goals, videos already analyzed
+   earlier in the chat). New videos get compared against previously analyzed ones —
+   agreements, contradictions, and which creator's evidence is stronger.
+6. **Report.** Lead with the verdict, then per-video: what it actually says (with the
    real numbers), what survives the skeptic pass, what doesn't. End with "what this
-   means for you" grounded in the user's actual situation if known.
+   means for you" grounded in the user's actual situation — their leverage and their
+   gaps, not generic advice. If nothing is known about the user, say what context would
+   change the verdict instead of guessing.
 
 ## Rules
 

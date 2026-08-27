@@ -25,7 +25,10 @@ receipts, not encouragement.
    in passing, and how hard the thing was to build/distribute.
 4. **Verdict.** One of: **validated-and-open / validated-but-crowded / unproven /
    crowded-and-late**. State the 2–3 facts that drove it, what would change it, and
-   the cheapest next test the user could run.
+   the cheapest next test the user could run. Where the conversation reveals the user's
+   assets (existing skills, infra, audience, distribution), weigh them: "crowded" can
+   still be a yes for someone with an unfair advantage the incumbents lack — name it
+   explicitly when that applies.
 
 ## Rules
 

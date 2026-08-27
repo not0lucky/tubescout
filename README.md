@@ -54,6 +54,10 @@ git clone https://github.com/OWNER/tubescout && cd tubescout
 | `/yt-idea-mine <niche>` | Mine a niche for product ideas backed by demand signals + pains real builders describe on camera |
 | `/yt-validate <idea>` | Go/no-go verdict: demand, saturation, what competitors' numbers actually show |
 | `/yt-channel-intel <channel>` | Read a channel's strategy: cadence, outliers, what performs vs what they publish |
+| `/yt-playbook <tutorial url>` | Turn a tutorial into executable steps — exact commands, settings, and the gotchas said in passing — adapted to your stack |
+| `/yt-gap <niche>` | Find demand-vs-supply gaps: heavily searched topics served by weak, old, or misfit videos — for content plans or product angles |
+
+All skills are **context-aware**: they read the conversation for what you're building, your stack, and videos already analyzed, and tailor verdicts to your actual leverage instead of giving generic advice.
 
 See [a real `/yt-breakdown` run](examples/breakdown-3-videos.md) on three "how I make $X/month" videos — including what survived the skeptic pass and what didn't.
 

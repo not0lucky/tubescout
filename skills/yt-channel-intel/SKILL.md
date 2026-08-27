@@ -29,6 +29,9 @@ Channels reveal their strategy in the gap between what they publish and what per
 - Subscriber count is vanity; views-per-video and outlier ratio are the signal.
 - If the user runs a channel in the same niche, end with the gap analysis: demand the
   target channel proved that the user's channel isn't serving yet.
+- Use the conversation's context: if the user's own content, product, or niche came up
+  earlier in the chat, frame every transferable tactic as a concrete move for THEM
+  ("your X could…"), not as abstract channel advice.
 
 ## Troubleshooting
 
