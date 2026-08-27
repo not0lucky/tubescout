@@ -1,0 +1,50 @@
+{
+  "name": "tubescout",
+  "version": "0.1.0",
+  "description": "MCP server that turns YouTube into a research engine — keyless search, video intel, and resilient transcripts for Claude Code, Codex, and any MCP client.",
+  "type": "module",
+  "bin": {
+    "tubescout": "dist/index.js"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "skills",
+    "scripts/install-skills.sh",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "inspect": "npx @modelcontextprotocol/inspector node dist/index.js",
+    "test": "vitest run test/unit",
+    "test:live": "vitest run test/smoke.live.test.ts",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "youtube",
+    "transcript",
+    "research",
+    "claude",
+    "codex",
+    "idea-mining"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "youtubei.js": "^18.0.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}
