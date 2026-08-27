@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <!-- TubeScout mark: a scope lens focused on a play glyph — flat, 2-color -->
+  <rect width="400" height="400" rx="88" fill="#1d232b"/>
+  <circle cx="186" cy="186" r="108" fill="none" stroke="#e8e6e1" stroke-width="22"/>
+  <path d="M156 136 L156 236 L244 186 Z" fill="#e05c4b"/>
+  <rect x="264" y="252" width="110" height="34" rx="17" transform="rotate(45 264 252)" fill="#e8e6e1"/>
+</svg>
