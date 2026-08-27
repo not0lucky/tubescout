@@ -6,7 +6,7 @@ import { getTranscript } from "./youtube/transcript.js";
 import { getChannelVideos, getSearchSuggestions } from "./youtube/channel.js";
 import { TubeScoutError, mapConcurrent } from "./util/retry.js";
 
-export const VERSION = "0.1.0";
+export const VERSION = "0.1.1";
 
 const MAX_TRANSCRIPT_CHARS = 60_000;
 
