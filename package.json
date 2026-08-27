@@ -33,6 +33,15 @@
     "idea-mining"
   ],
   "license": "MIT",
+  "author": "Anir (not0lucky)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not0lucky/tubescout.git"
+  },
+  "homepage": "https://github.com/not0lucky/tubescout#readme",
+  "bugs": {
+    "url": "https://github.com/not0lucky/tubescout/issues"
+  },
   "engines": {
     "node": ">=18"
   },

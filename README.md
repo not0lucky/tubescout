@@ -31,7 +31,7 @@ That's it — no API key, no config. Then ask your agent things like:
 **Optional but recommended — the skill pack:**
 
 ```bash
-git clone https://github.com/OWNER/tubescout && cd tubescout
+git clone https://github.com/not0lucky/tubescout && cd tubescout
 ./scripts/install-skills.sh   # installs into ~/.claude/skills and ~/.codex/skills
 ```
 
@@ -86,3 +86,7 @@ npm run inspect   # MCP Inspector against the built server
 ```
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Built by [Anir](https://github.com/not0lucky) — I automate things. More at [agramprojects.com](https://agramprojects.com).
