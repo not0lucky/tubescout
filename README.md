@@ -18,6 +18,12 @@ claude mcp add --scope user tubescout -- npx -y tubescout
 codex mcp add tubescout -- npx -y tubescout
 ```
 
+**OpenCode** — add to `~/.config/opencode/opencode.json` under `"mcp"`:
+
+```json
+"tubescout": { "type": "local", "command": ["npx", "-y", "tubescout"], "enabled": true }
+```
+
 That's it — no API key, no config. Then ask your agent things like:
 
 > *"Find the 5 most-viewed videos about n8n from the last month and summarize what people are struggling with."*
