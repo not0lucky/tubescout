@@ -24,6 +24,7 @@ Channels reveal their strategy in the gap between what they publish and what per
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - Views are cumulative — normalize by age when comparing recent vs old uploads
   ("3 days ago, 30K" can beat "2 years ago, 100K").
 - Subscriber count is vanity; views-per-video and outlier ratio are the signal.

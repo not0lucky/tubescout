@@ -32,6 +32,7 @@ receipts, not encouragement.
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - Timestamps matter: a 2024 gold rush may be a 2026 graveyard. Weight recent evidence.
 - Distinguish "many videos about X" (education demand — good) from "many products
   doing X" (competition — check both).

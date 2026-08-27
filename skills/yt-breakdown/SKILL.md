@@ -38,6 +38,7 @@ Works on 1–10 videos; with multiple videos, cross-reference them.
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - Engagement context: `likesPer1kViews` of 10–50 is typical; far above = resonant,
   far below = clickbait suspicion. Mention it only when it's informative.
 - Distinguish the creator's *evidence* from the creator's *advice*. Evidence can be

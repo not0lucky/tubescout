@@ -35,6 +35,7 @@ appear in Reddit threads. Mine it systematically instead of watching it.
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - Never launder a creator's recycled idea as evidence — a video *saying* "build X, it's
   a great idea" is not a signal; a creator *complaining about a missing tool* is.
 - Note each source's incentive (most idea-listicle channels sell idea databases).

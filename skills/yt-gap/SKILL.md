@@ -31,12 +31,15 @@ Works for two audiences: creators (what to publish) and builders (what to build)
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - A gap needs BOTH sides evidenced. High demand + strong supply = red ocean; no demand
   signal + no supply = probably no market, not a gap. Say which is which.
 - YouTube demand ≠ total market: some B2B niches search Google, not YouTube. Flag when
   the niche is likely one of those.
 - Recency window matters: check supply within the last year, not all time — a 2019
   million-view video with no modern successor IS the gap.
+- 12–16 tool calls is the normal budget (suggestions recursion + supply checks + 2–3
+  verifications); go deeper only if the user asks.
 
 ## Troubleshooting
 

@@ -28,6 +28,7 @@ instructions, keep the hard-won details, drop the filler.
 
 ## Rules
 
+- Cite only URLs returned by tubescout tools in this conversation — never write a YouTube URL or video ID from memory.
 - Never invent a command the creator didn't give; if a step is vague in the video, say
   "creator hand-waves this — likely X" and mark it as inference.
 - Multi-part series: ask before fetching more than 3 videos.
