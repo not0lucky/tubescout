@@ -28,8 +28,13 @@ if [ -d "$HOME/.codex" ]; then
   install_into "$HOME/.codex/skills" "Codex"
 fi
 
+# OpenCode
+if [ -d "$HOME/.config/opencode" ]; then
+  install_into "$HOME/.config/opencode/skills" "OpenCode"
+fi
+
 if [ "$installed" -eq 0 ]; then
-  echo "Neither ~/.claude nor ~/.codex found — is Claude Code or Codex installed?"
+  echo "No ~/.claude, ~/.codex, or ~/.config/opencode found — is Claude Code, Codex, or OpenCode installed?"
   exit 1
 fi
 
@@ -38,3 +43,5 @@ echo "Skills: yt-breakdown · yt-idea-mine · yt-validate · yt-channel-intel"
 echo "They need the tubescout MCP server connected:"
 echo "  Claude Code:  claude mcp add --scope user tubescout -- npx -y tubescout"
 echo "  Codex:        codex mcp add tubescout -- npx -y tubescout"
+echo '  OpenCode:     add to ~/.config/opencode/opencode.json under "mcp":'
+echo '                "tubescout": { "type": "local", "command": ["npx", "-y", "tubescout"], "enabled": true }'
