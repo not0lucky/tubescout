@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "io.github.not0lucky/tubescout",
-  "description": "Turn YouTube into a research engine: keyless search, video intel, resilient transcripts, channel scans, and search-demand signals — plus six bundled research skills.",
+  "description": "YouTube as a research engine: keyless search, video intel, resilient transcripts, demand signals.",
   "repository": {
     "url": "https://github.com/not0lucky/tubescout",
     "source": "github"
