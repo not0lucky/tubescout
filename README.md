@@ -28,11 +28,18 @@ That's it — no API key, no config. Then ask your agent things like:
 
 > *"Find the 5 most-viewed videos about n8n from the last month and summarize what people are struggling with."*
 
-**Optional but recommended — the skill pack:**
+**Easiest all-in-one (Claude Code): install as a plugin** — MCP server + all 6 skills in two commands:
+
+```
+/plugin marketplace add not0lucky/tubescout
+/plugin install tubescout@tubescout
+```
+
+**Or install the skill pack manually** (works for Claude Code, Codex, and OpenCode):
 
 ```bash
 git clone https://github.com/not0lucky/tubescout && cd tubescout
-./scripts/install-skills.sh   # installs into ~/.claude/skills and ~/.codex/skills
+./scripts/install-skills.sh   # installs into ~/.claude/skills, ~/.codex/skills, ~/.config/opencode/skills
 ```
 
 ## Tools

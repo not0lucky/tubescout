@@ -1,0 +1,21 @@
+{
+  "name": "tubescout",
+  "owner": {
+    "name": "not0lucky",
+    "url": "https://github.com/not0lucky"
+  },
+  "plugins": [
+    {
+      "name": "tubescout",
+      "source": "./",
+      "description": "YouTube as a research engine — keyless MCP server (search, video intel, resilient transcripts, channel scan, search-demand signals) plus six context-aware research skills: yt-breakdown, yt-idea-mine, yt-validate, yt-channel-intel, yt-playbook, yt-gap.",
+      "version": "0.1.0",
+      "author": {
+        "name": "not0lucky"
+      },
+      "homepage": "https://github.com/not0lucky/tubescout",
+      "license": "MIT",
+      "keywords": ["youtube", "research", "transcripts", "mcp", "idea-mining"]
+    }
+  ]
+}

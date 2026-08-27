@@ -1,0 +1,11 @@
+{
+  "name": "tubescout",
+  "description": "YouTube as a research engine — keyless MCP server + six context-aware research skills (skeptic's video breakdowns, idea mining, niche validation, channel intel, tutorial playbooks, demand-gap analysis).",
+  "version": "0.1.0",
+  "author": {
+    "name": "not0lucky",
+    "url": "https://github.com/not0lucky"
+  },
+  "homepage": "https://github.com/not0lucky/tubescout",
+  "license": "MIT"
+}

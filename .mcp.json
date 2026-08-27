@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tubescout": {
+      "command": "npx",
+      "args": ["-y", "tubescout"]
+    }
+  }
+}
