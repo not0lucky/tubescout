@@ -1,6 +1,6 @@
 # TubeScout 🔭
 
-**Turn YouTube into a research engine for your AI agent.** An MCP server (no API key) plus a skill pack that make Claude Code and Codex search YouTube like a database, read transcripts at scale, and mine videos for evidence — claims, numbers, demand signals — instead of vibes.
+**Turn YouTube into a research engine for your AI agent.** An MCP server (no API key) plus a skill pack that make Claude Code, Codex, and OpenCode search YouTube like a database, read transcripts at scale, and mine videos for evidence — claims, numbers, demand signals — instead of vibes.
 
 Idea-engine tools scan Reddit and forums. YouTube is where founders show *receipts* — revenue dashboards, playbooks, real numbers on camera — and nothing mines it. TubeScout does.
 
