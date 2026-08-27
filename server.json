@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.not0lucky/tubescout",
+  "description": "Turn YouTube into a research engine: keyless search, video intel, resilient transcripts, channel scans, and search-demand signals — plus six bundled research skills.",
+  "repository": {
+    "url": "https://github.com/not0lucky/tubescout",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "tubescout",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

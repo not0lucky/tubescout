@@ -1,6 +1,7 @@
 {
   "name": "tubescout",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.not0lucky/tubescout",
   "description": "MCP server that turns YouTube into a research engine — keyless search, video intel, and resilient transcripts for Claude Code, Codex, and any MCP client.",
   "type": "module",
   "bin": {
